@@ -1,1 +1,1 @@
-# Project-Answering-Business-Questions--using--SQL
+# Project-Answering-Business-Questions-using-SQL
