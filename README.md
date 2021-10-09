@@ -1,2 +1,2 @@
-### Project-Answering-Business-Questions-using-SQL.
-In this project, we are going to explore the database, **chinook.db**. We are going to come up with some business questions that might be interesting. Then we'll try to answer them with SQL.
+# SQL for Data Analytics.
+[Project-Answering-Business-Questions-using-SQL](https://github.com/hammadasif402/Project-Answering-Business-Questions-using-SQL/blob/main/Project-Answering%20Business%20Questions%20using%20SQL.ipynb): In this project, we are going to explore the database, **chinook.db**. We are going to come up with some business questions that might be interesting. Then we'll try to answer them with SQL.
